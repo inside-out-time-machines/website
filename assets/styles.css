@@ -1,5 +1,5 @@
-/* Jottem homepage — palet afgeleid van het woordmerk (oranje O #d85a30, inkt #1f1e1c)
-   Huisstijl: zie https://brand.iotm.nl/ — fonts altijd lokaal, nooit via CDN */
+/* Jottem homepage - palet afgeleid van het woordmerk (oranje O #d85a30, inkt #1f1e1c)
+   Huisstijl: zie https://brand.iotm.nl/ - fonts altijd lokaal, nooit via CDN */
 @font-face { font-family: 'Fraunces'; font-style: normal; font-weight: 400; font-display: swap;
     src: url('fonts/fraunces-v38-latin-regular.woff2') format('woff2'); }
 @font-face { font-family: 'Fraunces'; font-style: italic; font-weight: 400; font-display: swap;

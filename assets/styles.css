@@ -2,7 +2,7 @@
 :root {
     --oranje: #d85a30;
     --roest: #a2401f;
-    --inkt: #1f1e1c;
+    --inkt: hsl(15, 65%, 16%);
     --grijs: #6b625c;
     --papier: #faf6f1;
     --karton: #e8d9c4;
@@ -188,7 +188,7 @@ body {
 .memo span { color: var(--grijs); font-size: .78rem; }
 
 /* ---------- banden ---------- */
-.band { max-width: 72rem; margin: 0 auto; padding: 3rem 2rem; }
+.band { max-width: 72rem; margin: 0 auto; padding: 1.5rem; }
 .band h2 {
     font-family: var(--serif);
     font-size: 1.95rem;

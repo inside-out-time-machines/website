@@ -72,9 +72,10 @@ body {
     border: 1px solid #e5d489;
     padding: .45rem .9rem .45rem .8rem;
     border-radius: .35rem;
-    transform: rotate(-1deg);
     box-shadow: 0 2px 5px rgba(31,30,28,.12);
     margin-bottom: 1.5rem;
+	margin-top:1.5rem;
+	width:100%;
 }
 .status-stip {
     display: inline-block; width: .6em; height: .6em; border-radius: 50%;
